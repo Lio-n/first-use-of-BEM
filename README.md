@@ -1,5 +1,5 @@
-### Link
+# first-use-of-BEM
 
-- Live Site: [link](https://lio-n.github.io/first-use-of-BEM/)
+ https://lio-n.github.io/first-use-of-BEM/
 
 
