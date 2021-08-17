@@ -30,36 +30,34 @@ body {
 /* Second */
 /* Block Subscribe */
 .sub {
-  height: 100%;
   padding: 100px 45px;
-}
-.sub__cont-sub {
-  margin: 0 auto;
   text-align: center;
 }
+
 .sub__title {
   font-size: 32px;
   line-height: 48px;
   font-weight: 500;
   margin-bottom: 40px;
 }
-.sub__form {
+
+.sub-form {
   display: flex;
   flex-direction: column;
   margin: auto;
   width: 234px;
 }
-.sub__form-title {
+.sub-form__title {
   font-size: 18px;
   margin-bottom: 5px;
 }
-
-.btn.sub__input {
+.btn.sub-form__input {
   background: #e8e8e8;
   font-size: 25px;
   margin-bottom: 15px;
+  width: 100%;
 }
-.btn.sub__btn {
+.btn.sub-form__btn {
   background-color: #ffed47;
 }
 
